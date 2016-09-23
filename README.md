@@ -1,0 +1,2 @@
+# LearnJavaTheHardWay
+Pre-course Exercises
