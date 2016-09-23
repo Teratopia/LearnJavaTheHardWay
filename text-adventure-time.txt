@@ -1,0 +1,52 @@
+5
+0
+PRESENT
+This is the present.
+It’s a beautiful time, with computer tablets and combination hamburger hotdogs.
+
+Your time machine has two settings: “forward” and “backward”.
+You may also “exit” the machine.
+%%
+forward:1
+go forward:1
+backward:2
+go backward:2
+%%
+1
+2100
+It is the year 2100, fusion powers most cities and 
+%%
+fridge:3
+refrigerator:3
+go back:0
+back:0
+%%
+2
+CORRIDOR
+The corridor has led to a dark room. The moment you step inside, the door
+slams shut behind you. There is no handle on the interior of the door.
+
+There is no escaping. Type "quit" to die.
+%%
+quit:-1
+%%
+3
+REFRIGERATOR
+Inside the refrigerator you see food and stuff. It looks pretty nasty.
+You can "eat" some of the food or go "back".
+%%
+eat:4
+back:1
+go back:1
+%%
+4
+EATFOOD
+The food is slimy and foul, but you manage to choke it down. Your stomach
+starts jumping like a frog in hot water. You feel faint. Sliding to the
+floor, the darkness closes in.
+
+You have died.
+(Type "quit" to die.)
+%%
+quit:-1
+%%
